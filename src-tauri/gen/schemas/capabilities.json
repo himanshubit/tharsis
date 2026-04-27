@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capability for Tharsis main window","local":true,"windows":["main"],"permissions":["core:default","core:window:allow-start-dragging","core:path:default","shell:allow-open","core:event:allow-listen","core:event:allow-unlisten","core:event:allow-emit"]}}
